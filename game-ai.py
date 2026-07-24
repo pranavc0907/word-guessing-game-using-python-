@@ -1,3 +1,13 @@
+"""
+Word Guessing Game (Enhanced Version)
+
+This version builds upon the original game logic.
+AI was used as a development assistant to improve the interface,
+user experience, and overall presentation while preserving the
+core gameplay mechanics developed in the base version.
+"""
+
+
 import random
 import json
 import webbrowser
