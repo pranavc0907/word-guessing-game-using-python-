@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 # 🎮 Python Word Guessing Game
 
 A Python mini project developed in stages to demonstrate the progression from learning programming fundamentals to enhancing an application with AI-assisted development, culminating in a standalone browser-ready web version.
@@ -51,6 +54,10 @@ The standalone client-side version of the enhanced game. It has the exact same U
 **How to run**: Open [index.html](file:///c:/Users/pc200/OneDrive/Documents/Projects/build-a-word-guessing-game-with-python/index.html) directly in any web browser.
 
 ---
+## 🚀 Live Demo
+
+👉 **Play Here:** https://word-guessing-game-using-python.vercel.app
+---
 
 ## 🛠 Skills Demonstrated
 
@@ -74,21 +81,6 @@ This project helped me understand how to:
 - Improve an existing application
 - Use AI responsibly as a development assistant without changing the core game logic
 - Deploy a static web application to the cloud for free
-
----
-
-## 🚀 Free Deployment on GitHub Pages
-
-You can host the web version of this game live on the internet for free so anyone can play:
-
-1. Push all your changes to GitHub (`git push origin main`).
-2. Go to your repository on GitHub.
-3. Click on the **Settings** tab.
-4. On the left sidebar, click on **Pages**.
-5. Under **Build and deployment**, set **Source** to `Deploy from a branch`.
-6. Select the `main` branch and `/ (root)` folder, then click **Save**.
-7. In a minute, your game will be live at:
-   `https://pranavc0907.github.io/word-guessing-game-using-python-/`
 
 ---
 
