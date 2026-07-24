@@ -1,3 +1,11 @@
+"""
+Word Guessing Game (Base Version)
+
+This version was developed while learning Python fundamentals.
+It focuses on implementing the core game logic using basic Python concepts
+such as loops, functions, lists, conditionals, and the random module.
+"""
+
 import random
 
 wordList = ["rizz", "ohio", "sigma", "tiktok", "skibidi"]
